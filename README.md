@@ -12,3 +12,4 @@
 	conda activate myenv/
 5. Install the Requiremnts
 	pip install -r requirements.txt
+#### Clone this Project : https://github.com/ManyamSanjayKumarReddy/End-To-End-Machine-Learning-Project-Implementation-Using-AWS-Sagemaker.git
